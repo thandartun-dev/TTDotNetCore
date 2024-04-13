@@ -1,0 +1,14 @@
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/bin/Debug/net7.0/TTDotNetCore.ConsoleApp
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/bin/Debug/net7.0/TTDotNetCore.ConsoleApp.deps.json
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/bin/Debug/net7.0/TTDotNetCore.ConsoleApp.runtimeconfig.json
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/bin/Debug/net7.0/TTDotNetCore.ConsoleApp.dll
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/bin/Debug/net7.0/TTDotNetCore.ConsoleApp.pdb
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/obj/Debug/net7.0/TTDotNetCore.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/obj/Debug/net7.0/TTDotNetCore.ConsoleApp.AssemblyInfoInputs.cache
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/obj/Debug/net7.0/TTDotNetCore.ConsoleApp.AssemblyInfo.cs
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/obj/Debug/net7.0/TTDotNetCore.ConsoleApp.csproj.CoreCompileInputs.cache
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/obj/Debug/net7.0/TTDotNetCore.ConsoleApp.dll
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/obj/Debug/net7.0/refint/TTDotNetCore.ConsoleApp.dll
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/obj/Debug/net7.0/TTDotNetCore.ConsoleApp.pdb
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/obj/Debug/net7.0/TTDotNetCore.ConsoleApp.genruntimeconfig.cache
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/obj/Debug/net7.0/ref/TTDotNetCore.ConsoleApp.dll
