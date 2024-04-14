@@ -12,3 +12,11 @@
 /home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/obj/Debug/net7.0/TTDotNetCore.ConsoleApp.pdb
 /home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/obj/Debug/net7.0/TTDotNetCore.ConsoleApp.genruntimeconfig.cache
 /home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/obj/Debug/net7.0/ref/TTDotNetCore.ConsoleApp.dll
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/bin/Debug/net7.0/System.Data.SqlClient.dll
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/obj/Debug/net7.0/TTDotNetCore.ConsoleApp.csproj.AssemblyReference.cache
+/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/obj/Debug/net7.0/TTDotNetCore.ConsoleApp.csproj.CopyComplete
