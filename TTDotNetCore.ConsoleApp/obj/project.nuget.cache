@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1I5PqTkPaAHAurI8YHAwLkx4zR960lROk4A/M5itgi+M9IYsW5lBOfN806mwGuneISoNEc1bOPrPCXeJ1TjHUA==",
+  "dgSpecHash": "91uEP1/aAW/s+iRjiQFPprLbjZOnQ8mjVJp1cq/Ajij/ALlTYEMcjkb90wwbGh/27t0DByYIMKzf/JLjyVBEag==",
   "success": true,
   "projectFilePath": "/home/thandartun/learn-dotnet/TTDotNetCore/TTDotNetCore.ConsoleApp/TTDotNetCore.ConsoleApp.csproj",
   "expectedPackageFiles": [
+    "/home/thandartun/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
     "/home/thandartun/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "/home/thandartun/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
     "/home/thandartun/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.7.0/runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
