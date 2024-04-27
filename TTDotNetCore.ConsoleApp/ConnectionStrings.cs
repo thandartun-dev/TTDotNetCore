@@ -10,6 +10,7 @@ internal static class ConnectionStrings
         InitialCatalog = "DotNetTrainingBatch4",
         UserID = "sa",
         Password = "Sasa@123",
+        TrustServerCertificate = true,
     };
 
 }

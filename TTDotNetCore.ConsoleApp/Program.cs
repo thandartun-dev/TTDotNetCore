@@ -45,8 +45,14 @@ Console.WriteLine("Hello, World!");
 // adoDotNetExample.Edit(1);
 // adoDotNetExample.Edit(2);
 
-DapperExample dapperExample = new DapperExample();
-dapperExample.Run();
 
+// Dapper
+// DapperExample dapperExample = new DapperExample();
+// dapperExample.Run();
+
+
+//EFCore
+EFCoreExample eFCoreExample = new EFCoreExample();
+eFCoreExample.Run();
 
 Console.ReadKey();
