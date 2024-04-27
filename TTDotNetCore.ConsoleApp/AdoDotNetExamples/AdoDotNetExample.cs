@@ -3,7 +3,7 @@ using System.Data;
 using System.Data.SqlClient;
 
 namespace
-TTDotNetCore.ConsoleApp;
+TTDotNetCore.ConsoleApp.AdoDotNetExamples;
 
 public class AdoDotNetExample
 {

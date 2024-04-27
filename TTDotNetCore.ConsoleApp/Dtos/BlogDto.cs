@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace TTDotNetCore.ConsoleApp;
+namespace TTDotNetCore.ConsoleApp.Dtos;
 
 [Table("Tbl_Blog")]  // mapping with table and c# object < BlogDto >
 public class BlogDto
