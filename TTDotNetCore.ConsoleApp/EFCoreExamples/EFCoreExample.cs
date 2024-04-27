@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Linq;
+using TTDotNetCore.ConsoleApp.Dtos;
 
-namespace TTDotNetCore.ConsoleApp;
+namespace TTDotNetCore.ConsoleApp.EFCoreExamples;
 
 internal class EFCoreExample
 {

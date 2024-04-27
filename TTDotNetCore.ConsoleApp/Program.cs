@@ -2,6 +2,9 @@
 using System.Data;
 using System.Data.SqlClient;
 using TTDotNetCore.ConsoleApp;
+using TTDotNetCore.ConsoleApp.EFCoreExamples;
+using TTDotNetCore.ConsoleApp.DapperExamples;
+using TTDotNetCore.ConsoleApp.AdoDotNetExamples;
 
 Console.WriteLine("Hello, World!");
 
@@ -34,9 +37,10 @@ Console.WriteLine("Hello, World!");
 //     Console.WriteLine("-------------------------------");
 // }
 
-// AdoDotNetExample adoDotNetExample = new AdoDotNetExample();
 
-// adoDotNetExample.Read();
+//AdoDotNet
+AdoDotNetExample adoDotNetExample = new AdoDotNetExample();
+adoDotNetExample.Read();
 
 // adoDotNetExample.Create("title", "author", "content");
 // adoDotNetExample.Update(1002, "test title", "test author", "test content");
@@ -52,7 +56,7 @@ Console.WriteLine("Hello, World!");
 
 
 //EFCore
-EFCoreExample eFCoreExample = new EFCoreExample();
-eFCoreExample.Run();
+// EFCoreExample eFCoreExample = new EFCoreExample();
+// eFCoreExample.Run();
 
 Console.ReadKey();

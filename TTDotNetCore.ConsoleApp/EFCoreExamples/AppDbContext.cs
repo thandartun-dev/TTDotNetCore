@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using TTDotNetCore.ConsoleApp.Dtos;
+using TTDotNetCore.ConsoleApp.Services;
 
-namespace TTDotNetCore.ConsoleApp;
+namespace TTDotNetCore.ConsoleApp.EFCoreExamples;
 
 internal class AppDbContext : DbContext // DbContext - connect c# and database
 {
